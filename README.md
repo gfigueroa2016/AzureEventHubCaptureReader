@@ -1,1 +1,1 @@
-# AzureEventHubCaptureReader
+# Azure EventHub Capture Reader
